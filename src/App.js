@@ -53,8 +53,8 @@ function App() {
                 </a>
                 <div className="socialsBlock">
                   <h3 className="socialsText whiteText">SOCIALS:</h3>
-                  <img className="socialsImg" src={telegram} alt="telegram"/>
-                  <img className="socialsImg" src={twitter} alt="twitter"/>
+                  <a href="https://t.me/stevenonepsteinisland"><img className="socialsImg" src={telegram} alt="telegram"/></a>
+                  <a href="https://twitter.com/SHawkingSol"><img className="socialsImg" src={twitter} alt="twitter"/></a>
                 </div>
               </div>
             </div>
@@ -92,8 +92,8 @@ function App() {
             <img alt="img3" src={meme3}/>
           </div>
           <div className="socials">
-            <img src={telegram} alt="telegram"/>
-            <img src={twitter} alt="twitter"/>
+            <a href="https://t.me/stevenonepsteinisland"><img src={telegram} alt="telegram"/></a>
+            <a href="https://twitter.com/SHawkingSol"><img src={twitter} alt="twitter"/></a>
           </div>
           <p className="rightsReserved">
             $HAWSEX ALL RIGHTS RESERVED 2024.
