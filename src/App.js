@@ -6,14 +6,12 @@ import hawking from './assets/steven.png';
 import aboutImg from './assets/about.png';
 import telegram from './assets/telegram.svg';
 import twitter from './assets/twitter.svg';
-import { useTypingEffect } from './hooks/typing-effect';
 import Overlay from './components/Overlay';
 import meme1 from './assets/memes/img1.png';
 import meme2 from './assets/memes/img2.png';
 import meme3 from './assets/memes/img3.png';
 
 function App() {
-  const text = useTypingEffect('Rover The Dog', 200);
   const contract = 'TBA';
 
 
