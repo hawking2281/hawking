@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import dogNoBg from '../assets/steven.png';
-import krivetka from '../assets/svg.svg'
 
 export default function Overlay({ playAudio }) {
   const [isOpen, setIsOpen] = useState(true);

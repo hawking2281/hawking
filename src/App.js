@@ -43,7 +43,7 @@ function App() {
                   STEPHEN HAWKING <br />
                   <span className="whiteText">ISLAND PIRATE</span>
                 </h1>
-                <a href="#">
+                <a href="https://raydium.io/">
                   <button class="button mainButton">
                     JET THE $HAWSEX
                   </button>
