@@ -1,5 +1,4 @@
 // App.jsx
-import React, {useState, useEffect} from 'react';
 import './App.css';
 import sound from './assets/music/music.mp3';
 import hawking from './assets/steven.png';
